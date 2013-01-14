@@ -1,4 +1,4 @@
-title : deadnode
+title : zed
 tagline: ... no BS
 author :
   name : Simon Peccaud
@@ -9,4 +9,4 @@ navigation :
   - archive.html
   - tags.html
   - about.md
-  
+

@@ -3,7 +3,7 @@
 
 RuhohSpec: '1.0'
 theme : hooligan
-production_url : http://deadno.de
+production_url : http://zed.re
 
 posts:
   permalink: /:categories/:title/
